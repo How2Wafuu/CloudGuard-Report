@@ -14,8 +14,8 @@
 
 ## MACHINE LEARNING
 * [Task & Dataset](machine-learning/task-and-dataset.md)
-* [Core Models (Isolation Forest & LSTM)](machine-learning/core-models.md)
-* [MLOps Pipeline](machine-learning/mlops.md)
+* [AI / ML Design (Edge & HQ)](machine-learning/ai-ml-design.md)
+* [ML Deployment & MLOps](machine-learning/mlops.md)
 
 ## SYSTEM
 * [Hybrid Architecture Overview](system/architecture-overview.md)
