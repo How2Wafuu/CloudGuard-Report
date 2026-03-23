@@ -18,8 +18,11 @@
 * [MLOps Pipeline](machine-learning/mlops.md)
 
 ## SYSTEM
-* [System Diagram](system/system-diagram.md)
+* [Hybrid Architecture Overview](system/architecture-overview.md)
 * [Cloud Deployment](system/cloud-deployment.md)
+* [Storage & Bandwidth Strategy](system/storage-and-bandwidth.md)
+* [Private Data Center](system/private-data-center.md)
+* [Scaling Plan](system/scaling-plan.md)
 * [AWS Services](system/aws-services.md)
 
 ## NETWORK
