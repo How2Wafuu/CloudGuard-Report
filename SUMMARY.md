@@ -35,8 +35,14 @@
 ## NETWORK
 
 * [Floor Plan](network/floor-plan.md)
-* [Topology](network/topology.md)
-* [Equipment & Hardware](network/equipment.md)
+* [Topology](network/topology/README.md)
+  * [Physical Topology](network/topology/physical-topology.md)
+  * [Logical Topology](network/topology/logical-topology.md)
+* [Heatmap](network/heatmap/README.md)
+  * [Branch Office Heatmaps](network/heatmap/branch-office-heatmaps.md)
+  * [HQ 1st Floor Heatmaps](network/heatmap/hq-1st-floor-heatmaps.md)
+  * [HQ 2nd Floor Heatmaps](network/heatmap/hq-2nd-floor-heatmaps.md)
 * [Network Segmentation](network/network-segmentation.md)
+* [Equipment & Hardware](network/equipment.md)
 * [Operations and Maintenance](network/operations.md)
 * [Network Service](network/network-service.md)
