@@ -9,12 +9,13 @@
 * [Solution](overview/solution.md)
 * [Target Groups](overview/target-groups.md)
 
-
 ## SOFTWARE
-* [UX/UI](software/ux-ui.md)
-* [User Flow](software/userflow-diagram.md)
-* [Database Design](software/database-design.md)
 
+* [UX/UI](software/ux-ui.md)
+* [User Flow](software/user-flow/README.md)
+  * [Client Onboarding & Response Flow](software/user-flow/client-onboarding-and-response-flow.md)
+  * [SOC Analyst Flow](software/user-flow/soc-analyst-flow.md)
+* [Database Design](software/database-design.md)
 
 ## MACHINE LEARNING
 
