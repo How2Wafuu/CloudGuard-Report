@@ -4,7 +4,6 @@ The CloudGuard AI interface is designed specifically for Security Operations Cen
 
 ### Design Principles
 
-* **High Contrast / Dark Mode Default:** Optimized for extended viewing periods typical in SOC environments to reduce eye strain.
 * **Progressive Disclosure:** The main dashboard displays high-level metrics (overall system health and active high-priority alerts). Analysts can click into specific incidents to reveal the deeply technical logs and AI anomaly scores.
 * **Action-Oriented:** Every alert includes immediate mitigation actions (e.g., "Isolate Host", "Block IP") directly within the UI.
 
