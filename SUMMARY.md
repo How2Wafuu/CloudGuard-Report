@@ -45,5 +45,4 @@
   * [HQ 2nd Floor Heatmaps](network/heatmap/hq-2nd-floor-heatmaps.md)
 * [Network Segmentation](network/network-segmentation.md)
 * [Equipment & Hardware](network/equipment.md)
-* [Operations and Maintenance](network/operations.md)
 * [Network Service](network/network-service.md)
