@@ -22,4 +22,14 @@ Maintaining 100% uptime and data integrity is critical for a Security Operations
 #### 4. Power & Environmental Management
 
 * **System:** APC Metered Power Distribution Units (PDUs) and Blanking Panels.
-* **Strategy:** Blanking panels maintain strict hot-aisle/cold-aisle airflow to protect the GPUs from thermal throttling. The metered PDUs allow the IT team to monitor power draw per rack in real-time, ensuring we do not trip breakers during heavy ML training cycles.
+* **Strategy:** Blanking panels maintain strict hot-aisle/cold-aisle airflow to prevent thermal throttling of the GPUs. The metered PDUs allow the IT team to monitor power draw per rack in real-time, ensuring we do not trip breakers during heavy ML training cycles.
+
+### Server Room Power & Cooling Budget (HQ 2nd Floor)
+
+Hosting centralized AI training models requires strict thermodynamic management. Given the physical deployment of our NVIDIA DGX H100 architecture, the Server Room is provisioned to support extreme density.
+
+* **Cluster Sizing:** A single standard rack housing 4x NVIDIA DGX H100 nodes.
+* **Power Draw:** \~40.8 kW peak draw per rack (10.2 kW per node).
+* **Redundancy:** N+1 power redundancy utilizing 3 separate circuits per rack.
+* **Thermal Output:** \~154,000 BTU/hr per rack.
+* **Cooling Strategy:** The 35m x 20m floor plan provides ample space for strict hot-aisle/cold-aisle containment, utilizing blanking panels and precision Computer Room Air Conditioning (CRAC) units to maintain the required 5–30°C operating environment.

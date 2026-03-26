@@ -2,6 +2,7 @@
 
 * [CloudGuard AI](README.md)
 * [About Us](about-us.md)
+* [Project management](project-management.md)
 
 ## OVERVIEW
 

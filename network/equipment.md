@@ -6,14 +6,9 @@ To support the heavy data flow of the CloudGuard AI MLOps pipeline and ensure ze
 
 Our hardware footprint is designed with high availability (HA) in mind, utilizing redundant core and distribution switches across both the HQ and Branch locations.
 
-| Device Role                      | Brand & Model                 | Quantity | Location           |
-| -------------------------------- | ----------------------------- | -------- | ------------------ |
-| **Firewall / Edge Security**     | Palo Alto Networks PA-3220    | 2        | HQ Core            |
-| **Core Switch**                  | Cisco Catalyst 9500-48Y4C     | 2        | HQ Data Center     |
-| **Distribution Switch (HQ)**     | Cisco Catalyst 9300-48P-A     | 2        | HQ Server Room     |
-| **Distribution Switch (Branch)** | Cisco Catalyst C9300L-48PF-4X | 2        | Branch Server Room |
-| **Access Switch**                | Cisco Catalyst 9200-48T-A     | 7        | HQ & Branch Floors |
-| **Wireless Access Point (AP)**   | HPE Aruba AP-635              | 12       | Campus-Wide        |
+<table><thead><tr><th width="187">Device Role</th><th>Brand &#x26; Model</th><th>Quantity</th><th>Location</th></tr></thead><tbody><tr><td><strong>Firewall / Edge Security</strong></td><td>Palo Alto Networks PA-3220*</td><td>2</td><td>HQ Core</td></tr><tr><td><strong>Branch Edge Security</strong></td><td>Palo Alto Networks PA-440</td><td>1</td><td>Branch Server Room</td></tr><tr><td><strong>Core Switch</strong></td><td>Cisco Catalyst 9500-48Y4C</td><td>2</td><td>HQ Data Center</td></tr><tr><td><strong>Distribution Switch (HQ)</strong></td><td>Cisco Catalyst 9300-48P-A</td><td>2</td><td>HQ Server Room</td></tr><tr><td><strong>Distribution Switch (Branch)</strong></td><td>Cisco Catalyst C9300L-48PF-4X</td><td>2</td><td>Branch Server Room</td></tr><tr><td><strong>Access Switch</strong></td><td>Cisco Catalyst 9200-48T-A</td><td>7</td><td>HQ (1st Floor, 2nd Floor C-Suite) &#x26; Branch</td></tr><tr><td><strong>Wireless Access Point (AP)</strong></td><td>HPE Aruba AP-635</td><td>12</td><td>Campus-Wide</td></tr></tbody></table>
+
+\*Note: The PA-3220 is an End-of-Life (Dec 2025) cost-optimized selection sourced via secondary markets. Future lifecycle upgrades will target the PA-3400 series.
 
 ***
 
@@ -24,12 +19,13 @@ Below is the estimated capital expenditure (CapEx) for the network hardware comp
 | Item                              | Qty | Unit Cost (THB) | Subtotal (THB) |
 | --------------------------------- | --- | --------------- | -------------- |
 | **Palo Alto Firewall PA-3220**    | 2   | 887,000         | 1,774,000      |
+| **Palo Alto Firewall PA-440**     | 1   | 105,000         | 105,000        |
 | **Cisco Catalyst 9500-48Y4C**     | 2   | 644,400         | 1,288,800      |
 | **Cisco Catalyst 9300-48P-A**     | 2   | 174,000         | 348,000        |
 | **Cisco Catalyst C9300L-48PF-4X** | 2   | 115,000         | 230,000        |
 | **Cisco Catalyst 9200-48T-A**     | 7   | 59,600          | 417,200        |
 | **HPE AP-635 Aruba**              | 12  | 45,350          | 544,200        |
-| **Total Estimated Cost**          |     |                 | **3,715,200**  |
+| **Total Estimated Cost**          |     |                 | 4,707,200      |
 
 ***
 

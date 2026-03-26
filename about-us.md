@@ -4,7 +4,7 @@
 
 ### Meet the Team
 
-**Atthaporn Srikiaw.** – _Project Manager_ Responsible for overall project orchestration and cross-functional technical design. Alongside managing system integration, I actively co-developed the database architecture, refined the HQ floor plan and network heat maps, and built initial AI model mockups to ensure seamless alignment between the software and network teams.
+**Atthaporn Srikiaw.** – _Project Manager_ Responsible for overall project orchestration, system integration, and cross-functional quality assurance. Ensured alignment between the database architecture(Software team), physical floor plans, and network heatmaps (Network team), and early AI model prototypes (ML team) to maintain design coherence across all workstreams.
 
 
 
