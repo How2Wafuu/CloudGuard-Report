@@ -28,4 +28,6 @@ To maintain strict version control over our documentation and codebase, we utili
 * **Documentation:** All technical documentation, code snippets, and architectural diagrams are maintained centrally using GitBook, which syncs directly to our documentation repository.
 * **AI/ML Mockup:** The proof-of-concept code and Jupyter Notebooks for our Machine Learning models (Isolation Forest and LSTM) are hosted in a dedicated, public repository for evaluator review.
 
+{% embed url="https://github.com/How2Wafuu/CloudGuard-Report" %}
+
 {% embed url="https://github.com/How2Wafuu/CloudGuard-ML-Mockup" %}
