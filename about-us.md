@@ -12,22 +12,24 @@
 
 _Responsible for the UX/UI design, database architecture, and the development/training of the Isolation Forest models._
 
-* **\[Lead Name]** – _Software & AI/ML Lead_
-* **\[Member Name]** – _Developer / AI Engineer_
-* **\[Member Name]** – _Developer / AI Engineer_
+* **Ken Tanapat Tarawatcharasart** – _Software & AI/ML Lead_
+* **Natcha Intapin** – _Developer / AI Engineer_
+* **Parasiri Tatirat** – _Developer / AI Engineer_
+* **Supatsala Charanaphong** – _Developer / AI Engineer_
 
 #### ☁️ System & Cloud Infrastructure Team
 
 _Responsible for the AWS public cloud deployment, MLOps pipeline integration, containerization (ECS), and data storage strategies (MinIO, Elasticsearch)._
 
-* **\[Lead Name]** – _System & Cloud Infrastructure Lead_
-* **\[Member Name]** – _Cloud Engineer / Systems Admin_
-* **\[Member Name]** – _Cloud Engineer / Systems Admin_
+* **Ritthanupahp Sitthananun** – _System & Cloud Infrastructure Lead_
+* **Jakaphun Jarujitranon** – _System & Cloud Engineer_
+* **Tonpo Rattanachote** – _System & Cloud Engineer_&#x20;
+* **Tonpo Rattanachote** – _System & Cloud Engineer_&#x20;
 
 #### 🔌 Network Architecture Team
 
 _Responsible for the physical and logical design of the HQ Private Data Center, including floor plans, network segmentation, hardware selection, and high-availability topologies._
 
-* **\[Lead Name]** – _Network Architecture Lead_
-* **\[Member Name]** – _Network Engineer_
-* **\[Member Name]** – _Network Engineer_
+* **Yotsawin Thepkham** – _Network Architecture Lead_
+* **Tanat Tangsiriuksorn** – _Network Engineer_
+* **Peerawat Singkram** – _Network Engineer_
