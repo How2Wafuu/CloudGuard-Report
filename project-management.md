@@ -15,9 +15,9 @@ To manage the moving parts of the Edge-Cloud-HQ architecture, we implemented the
 
 We utilize **ClickUp** as our primary project management platform to track tasks, plan sprints, and monitor completed milestones. Task tracking was categorized by engineering domains to ensure strict accountability:
 
-* **Network Engineering:** Focused on the hardware BOM, physical/logical topologies, and thermal/power budgets for the HQ Server Room.
-* **Software & UI/UX:** Managed the Figma prototyping, client onboarding flows, and the multi-tenant database schema design.
-* **Machine Learning & Systems:** Handled the data engineering, the deployment of the Isolation Forest and LSTM-Autoencoder models, and the AWS cloud ingestion buffers.
+* **Network Engineering:** Focused on the hardware BOM, physical and logical topologies, WiFi heatmap, and network service.
+* **UI/UX & Machine Learning:** Managed Figma prototyping, client onboarding flows, and the multi-tenant database schema design.
+* **Systems Engineering:** Handled data engineering, the deployment of the Isolation Forest and LSTM-Autoencoder models, as well as AWS cloud ingestion buffers and the HQ data center design and equipment selection.
 
 > 🔒 **Access Control Note for Evaluators:** _To maintain workspace security and prevent unauthorized edits to our live production board, the direct access link to the CloudGuard AI ClickUp workspace is not published publicly. The secure access link has been provided directly via the Canvas submission portal._
 
