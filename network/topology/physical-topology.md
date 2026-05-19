@@ -16,7 +16,7 @@ Our 20m x 17m Branch Office utilizes a straightforward but robust network design
 * **Access Layer:** Two **Access Switches** provide wired connectivity to the workstations in the IT and Marketing departments.
 * **Cabling:** \* The backbone connection between the Distribute and Access switches utilizes **OM4 Multi-Mode Fiber** for high throughput.
   * Endpoint connections (workstations to switches) utilize standard **CAT7** copper cabling.
-* **Wireless:** A single **Access Point (AP)** ensures wireless coverage for the meeting rooms and general office areas.
+* **Wireless:** Three **Access Points (APs)** ensures wireless coverage for the meeting rooms and general office areas.
 
 ***
 
@@ -29,7 +29,7 @@ The 35m x 20m first floor of HQ handles general corporate traffic and requires b
 #### Infrastructure Details:
 
 * **Wired Access:** The floor utilizes **OM4 Multi-Mode Fiber** to link back to the core network (located on the 2nd floor), distributing to three **Access Switches** strategically placed to serve the Security Control, HR, Marketing, and Finance departments.
-* **Wireless Coverage:** To support a mobile corporate workforce, six **Access Points (APs)** are distributed across the floor, providing overlapping coverage for the Reception, Pantry, Guest Meeting room, and general open areas.
+* **Wireless Coverage:** To support a mobile corporate workforce, seven **Access Points (APs)** are distributed across the floor, providing overlapping coverage for the Reception, Pantry, Guest Meeting room, and general open areas.
 
 ***
 
